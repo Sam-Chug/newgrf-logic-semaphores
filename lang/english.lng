@@ -1,0 +1,6 @@
+##grflangid 0x00
+
+# GRF name and description
+STR_GRF_NAME_WITH_VER                            :Logic Semaphores
+STR_GRF_DESC                                     :Replaces semaphore signals with large black and green pixels. Author: Chuggers
+STR_GRF_URL                                      :https://github.com/Sam-Chug?tab=repositories

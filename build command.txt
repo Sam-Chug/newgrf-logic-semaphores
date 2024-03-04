@@ -1,0 +1,1 @@
+nmlc -c --grf logic_semaphores.grf logic_semaphores.nml
